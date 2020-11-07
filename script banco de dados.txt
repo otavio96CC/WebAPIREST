@@ -1,0 +1,5 @@
+create database patrimonio;
+create schema genrenciador;
+
+
+As tabelas e constrait foram criadas pelos modelos no codigo pois o spring.jpa.hibernate.ddl-auto esta setado em updade na application.properties.
